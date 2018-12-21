@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:title="Help"
+    android:id="@+id/help"/>
+    <item
+        android:title="About"
+        android:id="@+id/about"/>
+    <item
+        android:title="FAQ"
+        android:id="@+id/faq"/>
+    <item
+        android:title="Change #tag"
+        android:id="@+id/tag"/>
+    <item
+        android:title="Add this #tag to fav"
+        android:id="@+id/favadd"/>
+    <item
+        android:title="Logout"
+        android:id="@+id/logout"/>
+</menu>
